@@ -1,0 +1,3 @@
+(3, 4) - interior
+(7, 3) - exterior
+(3, 2) - pe una dintre laturi
